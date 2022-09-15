@@ -1,9 +1,12 @@
 # KQAPro-dataset-NLP
 This repository consists of all the operations done on the KQAPro dataset - https://github.com/shijx12/KQAPro_Baselines
 
-JQ CLI for JSON processing has been used to process the files in the raw_data folder into the data_processed [Download data_processed](https://drive.google.com/uc?export=download&id=)folder for easy readablity and usage. 
+JQ CLI for JSON processing has been used to process the files in the raw_data folder into the data_processed folder for easy readablity and usage. 
+
 
 # Using JQ CLI for JSON file preprocessing 
+
+The processed files [data_processed] can either be [Downloaded here](https://drive.google.com/uc?export=download&id=) or can be manually processed with JQ 
 
 A windows 11 use case is shown below.
 
